@@ -203,7 +203,7 @@ indoor_ota_x310s = [
      "USRP X310 #4"),
 ]
 pc.defineStructParameter(
-    name="x310_radio",
+    name="x310_radios",
     description="X310 Radio for gNodeB (up to 4)",
     defaultValue=[{"radio_id": "ota-x310-1"}],
     multiValue=True,
