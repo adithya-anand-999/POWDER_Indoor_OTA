@@ -215,7 +215,7 @@ pc.defineStructParameter(
             "X310 Radio ID",
             portal.ParameterType.STRING,
             indoor_ota_x310s[0],
-            indoor_ota_x130s
+            indoor_ota_x310s
         )
     ]
 )
